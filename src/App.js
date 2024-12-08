@@ -11,6 +11,7 @@ function App() {
       
      <BasicExample/>
      <Login/>
+    <br/>
      <Signup/>
      <Footer/>
     </div>
